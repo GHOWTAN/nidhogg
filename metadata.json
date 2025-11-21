@@ -1,0 +1,5 @@
+{
+  "name": "Gladius: Duel of the Serpent",
+  "description": "A fast-paced, 2-player fencing tug-of-war game inspired by Nidhogg. Features local multiplayer sword fighting, screen transitions, and AI-generated commentary.",
+  "requestFramePermissions": []
+}
